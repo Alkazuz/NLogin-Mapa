@@ -1,0 +1,29 @@
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\NLogin Mapa.dll
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\NLogin Mapa.pdb
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\AdvancedBot.exe
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\Newtonsoft.Json.dll
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\AxInterop.WMPLib.dll
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\Interop.WMPLib.dll
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin_Mapa.FrmMapa.resources
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.csproj.GenerateResource.cache
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.csproj.CoreCompileInputs.cache
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.csproj.CopyComplete
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.dll
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.pdb
+F:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.csprojAssemblyReference.cache
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\NLogin Mapa.dll
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\NLogin Mapa.pdb
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\AdvancedBot.exe
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\Newtonsoft.Json.dll
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\AxInterop.WMPLib.dll
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\Jint.dll
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\Interop.WMPLib.dll
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\AdvancedBot.pdb
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\AdvancedBot.exe.config
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin_Mapa.FrmMapa.resources
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.csproj.GenerateResource.cache
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.csproj.CopyComplete
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.dll
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\obj\Debug\NLogin Mapa.pdb
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\NLogin Mapa.dll.CodeAnalysisLog.xml
+C:\Arquivos\Documents\abot\Plugins\NLogin Mapa\NLogin Mapa\bin\Debug\NLogin Mapa.dll.lastcodeanalysissucceeded

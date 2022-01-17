@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLogin Mapa", "NLogin Mapa\NLogin Mapa.csproj", "{CE65F461-06F1-4D85-A730-CDFA16FACA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE65F461-06F1-4D85-A730-CDFA16FACA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE65F461-06F1-4D85-A730-CDFA16FACA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE65F461-06F1-4D85-A730-CDFA16FACA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE65F461-06F1-4D85-A730-CDFA16FACA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7BD306-7447-4D0C-92C6-817C32CD4CA9}
+	EndGlobalSection
+EndGlobal
